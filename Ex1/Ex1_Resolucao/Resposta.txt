@@ -1,0 +1,4 @@
+﻿1-Identifique qual o princípio SOLID violado, explique o motivo e proponha uma solução:
+
+Princípio violado: SRP. A classe LocalizaCliente tem o método ExportarCSV, que não é de sua responsabilidade.
+Solução: Exportar esse método para outra classe.

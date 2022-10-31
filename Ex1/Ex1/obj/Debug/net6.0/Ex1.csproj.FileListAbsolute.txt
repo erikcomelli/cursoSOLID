@@ -1,0 +1,15 @@
+C:\D\GIT\CursoSOLID\Ex1\Ex1\bin\Debug\net6.0\Ex1.exe
+C:\D\GIT\CursoSOLID\Ex1\Ex1\bin\Debug\net6.0\Ex1.deps.json
+C:\D\GIT\CursoSOLID\Ex1\Ex1\bin\Debug\net6.0\Ex1.runtimeconfig.json
+C:\D\GIT\CursoSOLID\Ex1\Ex1\bin\Debug\net6.0\Ex1.dll
+C:\D\GIT\CursoSOLID\Ex1\Ex1\bin\Debug\net6.0\Ex1.pdb
+C:\D\GIT\CursoSOLID\Ex1\Ex1\obj\Debug\net6.0\Ex1.csproj.AssemblyReference.cache
+C:\D\GIT\CursoSOLID\Ex1\Ex1\obj\Debug\net6.0\Ex1.GeneratedMSBuildEditorConfig.editorconfig
+C:\D\GIT\CursoSOLID\Ex1\Ex1\obj\Debug\net6.0\Ex1.AssemblyInfoInputs.cache
+C:\D\GIT\CursoSOLID\Ex1\Ex1\obj\Debug\net6.0\Ex1.AssemblyInfo.cs
+C:\D\GIT\CursoSOLID\Ex1\Ex1\obj\Debug\net6.0\Ex1.csproj.CoreCompileInputs.cache
+C:\D\GIT\CursoSOLID\Ex1\Ex1\obj\Debug\net6.0\Ex1.dll
+C:\D\GIT\CursoSOLID\Ex1\Ex1\obj\Debug\net6.0\refint\Ex1.dll
+C:\D\GIT\CursoSOLID\Ex1\Ex1\obj\Debug\net6.0\Ex1.pdb
+C:\D\GIT\CursoSOLID\Ex1\Ex1\obj\Debug\net6.0\Ex1.genruntimeconfig.cache
+C:\D\GIT\CursoSOLID\Ex1\Ex1\obj\Debug\net6.0\ref\Ex1.dll
