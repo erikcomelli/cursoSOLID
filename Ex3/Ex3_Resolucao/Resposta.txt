@@ -1,0 +1,20 @@
+﻿Suponha que você esteja desenvolvendo uma aplicação web que inclua uma calculadora de impostos on-line.
+Os usuários podem visitar uma página web, especificar suas receitas, as deduções e calcular o imposto a pagar.
+Para isso você criou a classe CalcularImposto e definiu o método Calcular que usa como parâmetro o valor, o total das deduções e o pais do usuário.
+Para cada país existe uma regra para calcular o imposto.
+O método Calcular() determina o valor do imposto subtraindo o valor da renda e das deduções totais obtendo o valorBase para cálculo.
+A seguir, conforme o país do usuário, é aplicada a regra para calcular o imposto do usuário que é retornado na variável valorImposto.
+
+Atualmente, o cálculo é feito apenas para os países: Brasil, USA e Argentina.
+Analise o código e pense no que vai acontecer se precisarmos incluir mais dois ou três novos países para realizar o cálculo do imposto.
+
+Perguntas: 
+1 - Qual princípio esta implementação está violando?
+2 - Explique o motivo da violação.
+3 - Proponha uma solução para o problema;
+
+Solução:
+1 - Está violando o princípio Open/Closed.
+2 - A cada novo país que for adicionado, a classe deverá sofrer alterações, com isso violando o princípio de "fechado para modificação"
+3 - Criar uma interface para a classe calcular imposto, com o método Calcular. Criar classes que implementam essa interface e um cálculo único para cada uma delas.
+Dessa forma a classe Calcular estará aberta para extensão.
