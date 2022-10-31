@@ -1,10 +1,10 @@
 ﻿namespace Ex3_Resolucao
 {
-    class CalcularImposto
+    class CalcularImpostoPais
     {
         ICalcularImpostoPais _calcularImpostoPais;
 
-        public CalcularImposto(ICalcularImpostoPais calcularImpostoPais)
+        public CalcularImpostoPais(ICalcularImpostoPais calcularImpostoPais)
         {
             _calcularImpostoPais = calcularImpostoPais;
         }
