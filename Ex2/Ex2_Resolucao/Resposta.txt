@@ -1,0 +1,18 @@
+﻿Em um sistema de vendas temos uma classe Pedido que entre outras tarefas faz a inclusão do pedido usando o método AdicionarPedido(), onde é feito o registro no console da inclusão do
+pedido e das ocorrências de erros usando a classe ConsoleLogger. 
+O sistema também deverá implementar o registro de log em arquivo texto além do console.
+
+Analise o código da classe Pedido existente a implementação de log solicitada:
+
+1-Indique quais princípios podem ser aplicados para desacoplar o código e torná-lo mais robusto.
+2-Proponha uma solução para o problema.
+
+Solução:
+-Criar uma interface para a classe log
+-As classes FileLogger e ConsoleLogger deverão implementar essa interface, uma irá guardar em arquivo e a outra exibir no console
+-Injetar a interface da classe logo no construtor da classe pedido
+
+Princípios aplicados:
+
+-Dependency Inversion Principle: A classe Pedido agora dependende de uma abstração da classe Logger. Foi usado o padrão da injeção da dependência para aplicar o princípio
+da inversão da dependência.

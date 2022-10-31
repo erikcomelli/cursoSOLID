@@ -1,0 +1,15 @@
+C:\D\GIT\CursoSOLID\Ex2\Ex2_Resolucao\bin\Debug\net6.0\Ex2_Resolucao.exe
+C:\D\GIT\CursoSOLID\Ex2\Ex2_Resolucao\bin\Debug\net6.0\Ex2_Resolucao.deps.json
+C:\D\GIT\CursoSOLID\Ex2\Ex2_Resolucao\bin\Debug\net6.0\Ex2_Resolucao.runtimeconfig.json
+C:\D\GIT\CursoSOLID\Ex2\Ex2_Resolucao\bin\Debug\net6.0\Ex2_Resolucao.dll
+C:\D\GIT\CursoSOLID\Ex2\Ex2_Resolucao\bin\Debug\net6.0\Ex2_Resolucao.pdb
+C:\D\GIT\CursoSOLID\Ex2\Ex2_Resolucao\obj\Debug\net6.0\Ex2_Resolucao.csproj.AssemblyReference.cache
+C:\D\GIT\CursoSOLID\Ex2\Ex2_Resolucao\obj\Debug\net6.0\Ex2_Resolucao.GeneratedMSBuildEditorConfig.editorconfig
+C:\D\GIT\CursoSOLID\Ex2\Ex2_Resolucao\obj\Debug\net6.0\Ex2_Resolucao.AssemblyInfoInputs.cache
+C:\D\GIT\CursoSOLID\Ex2\Ex2_Resolucao\obj\Debug\net6.0\Ex2_Resolucao.AssemblyInfo.cs
+C:\D\GIT\CursoSOLID\Ex2\Ex2_Resolucao\obj\Debug\net6.0\Ex2_Resolucao.csproj.CoreCompileInputs.cache
+C:\D\GIT\CursoSOLID\Ex2\Ex2_Resolucao\obj\Debug\net6.0\Ex2_Resolucao.dll
+C:\D\GIT\CursoSOLID\Ex2\Ex2_Resolucao\obj\Debug\net6.0\refint\Ex2_Resolucao.dll
+C:\D\GIT\CursoSOLID\Ex2\Ex2_Resolucao\obj\Debug\net6.0\Ex2_Resolucao.pdb
+C:\D\GIT\CursoSOLID\Ex2\Ex2_Resolucao\obj\Debug\net6.0\Ex2_Resolucao.genruntimeconfig.cache
+C:\D\GIT\CursoSOLID\Ex2\Ex2_Resolucao\obj\Debug\net6.0\ref\Ex2_Resolucao.dll
