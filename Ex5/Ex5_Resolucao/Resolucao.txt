@@ -1,0 +1,13 @@
+﻿Temos aqui o código de uma classe Pizzaria que cria pizzas de diversos sabores usando o método CriarPizza(), que recebe uma string para indicar o tipo de pizza que deve ser criado.
+Identifique os problemas apresentados por este código e os princípios que estão sendo violados.
+Altere o código implementando uma solução que torne o código aderente às boas práticas e aos princípios SOLID criando as classes e/ou interfaces necessárias.
+
+Dica: Defina a classe Pizza como a classe base das classes concretas PizzaMussarela e PizzaCalabresa e encapsule o código usado para criar as pizzas em outros objetos.
+
+Resolução:
+
+Problemas apresentados: O código viola o princípio Open/Closed. A cada novo sabor de pizza criado, deve ser alterado o código da classe Pizzaria.
+
+Solução:
+- Aplicar o princípio Open/Closed para cada novo sabor de pizza adicionado;
+- Aplicar o principio Depency Inversion para remover o forte acoplamento de Pizza em Pizzaria;
