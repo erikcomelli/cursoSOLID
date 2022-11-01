@@ -1,0 +1,11 @@
+﻿Imagine que uma loja prentende aplicar uma política de descontos no preço dos seus produtos, onde cada produto poderá, de acordo com as datas especiais do calendario
+(dia das mães, dia dos pais, dia das crianças, etc) ter um preço promocional.
+Neste cenário teríamos para cada data um tipo de desconto diferente que deverá ser implementado por um algoritmo diferente.
+
+Dicas:
+- Você vai precisar criar uma classe Produto para representar o seu produto;
+- Pode criar uma interface IPromoção com um contrato para aplicar o desconto para cada data especial que deverá ser implementada em classes concretas;
+- Como produto crie apenas os produtos Celular e Perfume para aplicar o desconto;
+- Considere apenas as datas especiais PromocaoDiaMaes e PromocaoDiaNamorados;
+
+Nota: ao final na classe Program crie dois produtos específicos e mostre a implementação funcionando.

@@ -1,0 +1,15 @@
+C:\D\GIT\CursoSOLID\Ex4\Ex4_Resolucao\bin\Debug\net6.0\Ex4_Resolucao.exe
+C:\D\GIT\CursoSOLID\Ex4\Ex4_Resolucao\bin\Debug\net6.0\Ex4_Resolucao.deps.json
+C:\D\GIT\CursoSOLID\Ex4\Ex4_Resolucao\bin\Debug\net6.0\Ex4_Resolucao.runtimeconfig.json
+C:\D\GIT\CursoSOLID\Ex4\Ex4_Resolucao\bin\Debug\net6.0\Ex4_Resolucao.dll
+C:\D\GIT\CursoSOLID\Ex4\Ex4_Resolucao\bin\Debug\net6.0\Ex4_Resolucao.pdb
+C:\D\GIT\CursoSOLID\Ex4\Ex4_Resolucao\obj\Debug\net6.0\Ex4_Resolucao.csproj.AssemblyReference.cache
+C:\D\GIT\CursoSOLID\Ex4\Ex4_Resolucao\obj\Debug\net6.0\Ex4_Resolucao.GeneratedMSBuildEditorConfig.editorconfig
+C:\D\GIT\CursoSOLID\Ex4\Ex4_Resolucao\obj\Debug\net6.0\Ex4_Resolucao.AssemblyInfoInputs.cache
+C:\D\GIT\CursoSOLID\Ex4\Ex4_Resolucao\obj\Debug\net6.0\Ex4_Resolucao.AssemblyInfo.cs
+C:\D\GIT\CursoSOLID\Ex4\Ex4_Resolucao\obj\Debug\net6.0\Ex4_Resolucao.csproj.CoreCompileInputs.cache
+C:\D\GIT\CursoSOLID\Ex4\Ex4_Resolucao\obj\Debug\net6.0\Ex4_Resolucao.dll
+C:\D\GIT\CursoSOLID\Ex4\Ex4_Resolucao\obj\Debug\net6.0\refint\Ex4_Resolucao.dll
+C:\D\GIT\CursoSOLID\Ex4\Ex4_Resolucao\obj\Debug\net6.0\Ex4_Resolucao.pdb
+C:\D\GIT\CursoSOLID\Ex4\Ex4_Resolucao\obj\Debug\net6.0\Ex4_Resolucao.genruntimeconfig.cache
+C:\D\GIT\CursoSOLID\Ex4\Ex4_Resolucao\obj\Debug\net6.0\ref\Ex4_Resolucao.dll
